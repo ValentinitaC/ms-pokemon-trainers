@@ -1,0 +1,20 @@
+{
+  "name": "ms-pokemon-trainers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinitaC/ms-pokemon-trainers.git"
+  },
+  "keywords": [],
+  "author": "Valentina C.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinitaC/ms-pokemon-trainers/issues"
+  },
+  "homepage": "https://github.com/ValentinitaC/ms-pokemon-trainers#readme",
+  "description": "Microservice for obtaining information on existing Pokemon and managing the Pokemon that the trainer has captured along with the specifications of each one."
+}
