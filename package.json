@@ -16,5 +16,8 @@
     "url": "https://github.com/ValentinitaC/ms-pokemon-trainers/issues"
   },
   "homepage": "https://github.com/ValentinitaC/ms-pokemon-trainers#readme",
-  "description": "Microservice for obtaining information on existing Pokemon and managing the Pokemon that the trainer has captured along with the specifications of each one."
+  "description": "Microservice for obtaining information on existing Pokemon and managing the Pokemon that the trainer has captured along with the specifications of each one.",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
